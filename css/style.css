@@ -19,7 +19,9 @@
 }
 #welcome p{
     color: #fff;
+    text-align: justify;
 }
+
 #welcome button{
     padding: 15px;
     width: 150px;
